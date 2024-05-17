@@ -1,8 +1,9 @@
+![logo](Assests/DSA.jpg)
 # Data Structures and Algorithms
 
 This repository contains implementations of various data structures and algorithms in the programming language 
 
-<div>
+<div align ="center">
   
   | C  | Java |
 |----------|----------|
@@ -15,11 +16,12 @@ This repository contains implementations of various data structures and algorith
 1. [Introduction](#introduction)
 2. [How to Use](#how-to-use)
 3. [Contributing](#contributing)
-4. [License](#license)
+4. [Links](#links)
+   
 
 ## Introduction
 
-This repository serves as a collection of common data structures and algorithms implemented in [insert language here]. Understanding these fundamental concepts is crucial for every programmer to solve complex problems efficiently.
+This repository serves as a collection of common data structures and algorithms implemented in C and Java. Understanding these fundamental concepts is crucial for every programmer to solve complex problems efficiently.
 
 
 ## How to Use
@@ -34,6 +36,16 @@ This repository serves as a collection of common data structures and algorithms 
 
 Contributions are welcome! If you have implemented a new data structure or algorithm or want to improve existing code, feel free to open a pull request. Please make sure your code follows the existing style and includes appropriate documentation.
 
-## License
+## Links
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakote)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImAtharva81)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:atharvkote3@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/user/1238159826748702824)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___atharv_81?igsh=MWxseGoyYmlianp6ZQ==)
 
-This project is licensed under the [CC0-1.0 License](LICENSE.md).
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
